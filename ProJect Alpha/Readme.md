@@ -11,6 +11,8 @@ This project demonstrates the creation and deployment of a secure web applicatio
 
 ## Screenshots
 ![Screenshot of Website](./screenshots/website-homepage.png)  
+![Screenshot of Website](./screenshots/website-homepage2.png)  
+
 
 ## Installation and Setup
 1. Clone this repository:
