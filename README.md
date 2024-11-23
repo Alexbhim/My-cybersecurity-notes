@@ -29,6 +29,10 @@ I am actively building my skills in:
 
 ---
 
+### Relevent Projects
+Welcome to my project section where I showcase my decidattion and continous learning 
+-[Project-Alpha](/Project-Alpha/)
+
 ### 📫 **Connect with Me**  
 - [LinkedIn](http://linkedin.com/in/valentine-bimkuteyi-893238232)  
 - [Email](mailto:bimkuteyib@gmail.com)  
