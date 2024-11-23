@@ -10,7 +10,7 @@ This project demonstrates the creation and deployment of a secure web applicatio
 - Demonstrates cloud security concepts such as access policies, key vaults, and SSL/TLS certificates.
 
 ## Screenshots
-![Screenshot of Website](Alexbhim/My-cybersecurity-notes/Project-Alpha/Screenshots/website-homepage.png)  
+![Screenshot of Website](Screenshots/website-homepage.png)  
 ![Screenshot of Website](Alexbhim/My-cybersecurity-notes/Project-Alpha/Screenshots/website-homepage2.png)  
 
 
