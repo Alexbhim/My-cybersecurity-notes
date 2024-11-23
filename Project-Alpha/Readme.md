@@ -13,8 +13,10 @@ This project demonstrates the creation and deployment of a secure web applicatio
 ![Screenshot of Website](Screenshots/website-homepage.png)  
 ![Screenshot of Website](Screenshots/website-homepage2.png)  
 
+## Full Technical Details
+![Full Information](Technical%Report.md)
 
 ## Installation and Setup
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Alexbhim/My-cybersecurity-notes/tree/main/ProJect%20Alpha
+   git clone https://github.com/Alexbhim/My-cybersecurity-notes/tree/main/Project-Alpha
