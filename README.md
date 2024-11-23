@@ -1,4 +1,3 @@
-echo "# My-cybersecurity-notes" >> README.md
 # 👋 Hi, I’m **Valentine Bimkuteyi**
 
 ### Aspiring Cybersecurity Professional  
@@ -33,7 +32,7 @@ I am actively building my skills in:
 ### 📫 **Connect with Me**  
 - [LinkedIn](http://linkedin.com/in/valentine-bimkuteyi-893238232)  
 - [Email](mailto:bimkuteyib@gmail.com)  
-- .[Twitter].(https://x.com/Alex_Bhim).
+- [Twitter](https://x.com/Alex_Bhim).
 ---
 
 Feel free to explore my projects, provide feedback, or reach out to collaborate. Let's secure the digital world together!  
