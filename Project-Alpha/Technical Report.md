@@ -78,36 +78,31 @@ After deploying the application, I ran multiple tests:
 - Performed vulnerability scans to ensure there were no security issues.
 - Checked that WAF rules, including SQL Injection protection, were working correctly.
 
-## 3. Code Implementation
+## 3. Azure Front Door and WAF Configuration
 
-### index.php (Backend PHP Script)
+These configurations are done through the Azure portal but are noted in this report for clarity:
 
-```php
-<?php
-// Sample PHP backend
-echo "<h1>Welcome to My Secure Web App</h1>";
-echo "<p>Here are some of the latest blog posts:</p>";
+- **Azure Front Door**: Configured for global load balancing to improve availability and route users to the closest available region.
+- **WAF Custom Rule**: Created a custom rule to block SQL Injection attempts, protecting the web application from malicious inputs and vulnerabilities.
 
-// Example static content
-$posts = [
-    "Introduction to Azure Web Apps",
-    "Securing Your Web Application with SSL",
-    "How to Use Key Vault in Azure"
-];
+## 4. Conclusion and Future Improvements
 
-echo "<ul>";
-foreach ($posts as $post) {
-    echo "<li>$post</li>";
-}
-echo "</ul>";
-?>
+The project successfully demonstrates how to build a secure web application on Azure. The application is now protected with SSL/TLS encryption, WAF, and other cloud security features. 
 
----
+### Future Improvements:
+- **Adding dynamic user authentication**: Implement user login and authentication to allow for personalized experiences.
+- **Automating SSL certificate renewal**: Set up automated SSL certificate renewal processes for production environments to avoid manual intervention.
+- **Extending the application**: Enhance the application to accept user input and provide more dynamic functionality (e.g., user-generated content, comment sections).
 
-### Explanation:
+This report outlines the process of building and securing a web application on Azure, showcasing the integration of key cloud security features like Azure Key Vault, SSL/TLS encryption, and Web Application Firewall.
 
-- **Markdown Formatting**: The content has been formatted using Markdown to make it visually appealing on GitHub. This includes headings, lists, code blocks, and sections.
-- **Code Blocks**: PHP code, CSS styles, and configuration steps are all encapsulated in code blocks for easy readability.
-- **Report Structure**: The report is divided into sections that follow the logical flow of your project development, ensuring clarity for anyone reading the report on GitHub.
+## 5. License
 
-Simply copy and paste this into your `README.md` file on GitHub, and it will render beautifully with proper formatting and structure.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## 6. Contact
+
+For inquiries or issues, please contact:  
+- [LinkedIn](http://linkedin.com/in/valentine-bimkuteyi-893238232)  
+- [Email](mailto:bimkuteyib@gmail.com)  
+- [Twitter](https://x.com/Alex_Bhim).
