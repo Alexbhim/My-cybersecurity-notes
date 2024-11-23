@@ -2,6 +2,9 @@
 
 This project demonstrates the creation and deployment of a secure web application using Microsoft Azure. It highlights fundamental concepts of cloud security, cryptography, and web application development.
 
+## Author
+### Valentine Bembow Bimkuteyi
+
 ## Features
 - Hosted on Azure with a free domain: [alexbhim.azurewebsites.net](https://alexbhim.azurewebsites.net/)
 - Secure configuration with TLS 1.2 and Azure Web Application Firewall (WAF).
