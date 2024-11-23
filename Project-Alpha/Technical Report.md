@@ -101,3 +101,13 @@ foreach ($posts as $post) {
 }
 echo "</ul>";
 ?>
+
+---
+
+### Explanation:
+
+- **Markdown Formatting**: The content has been formatted using Markdown to make it visually appealing on GitHub. This includes headings, lists, code blocks, and sections.
+- **Code Blocks**: PHP code, CSS styles, and configuration steps are all encapsulated in code blocks for easy readability.
+- **Report Structure**: The report is divided into sections that follow the logical flow of your project development, ensuring clarity for anyone reading the report on GitHub.
+
+Simply copy and paste this into your `README.md` file on GitHub, and it will render beautifully with proper formatting and structure.
